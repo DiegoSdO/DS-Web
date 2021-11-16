@@ -1,0 +1,61 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    background-color: burlywood;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.a{
+    width: 500px;
+    background-color: brown;
+    color: black;
+}
+
+div{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 15px
+}
+
+ul{
+    list-style: none;
+    align-items: center;
+}
+
+#x{
+    width: 400px;
+    border-radius: 15px
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+.b{
+    background-color: black;
+    color: white;
+}
+
+.c{
+    background-color: brown;
+    color: black;
+    text-align: center;
+    width: 1250px;
+}
+
+.d{
+    background-color: rgb(0, 183, 255);
+    color: black;
+    text-align: center;
+    width: 1250px;
+}
+
+.logo{
+    width: 70px;
+}
